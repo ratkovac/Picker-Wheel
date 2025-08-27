@@ -1,0 +1,71 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+D:\Nikola_Ratkovac_RA_158_2021_3D_Projekat\spinning_wheel_3d\inputCallbacks.h(47,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Nikola_Ratkovac_RA_158_2021_3D_Projekat\spinning_wheel_3d\inputCallbacks.h(118,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Nikola_Ratkovac_RA_158_2021_3D_Projekat\spinning_wheel_3d\text.h(40,17): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+D:\Nikola_Ratkovac_RA_158_2021_3D_Projekat\spinning_wheel_3d\text.h(40,17): warning C4244:         with
+D:\Nikola_Ratkovac_RA_158_2021_3D_Projekat\spinning_wheel_3d\text.h(40,17): warning C4244:         [
+D:\Nikola_Ratkovac_RA_158_2021_3D_Projekat\spinning_wheel_3d\text.h(40,17): warning C4244:             T=glm::i32
+D:\Nikola_Ratkovac_RA_158_2021_3D_Projekat\spinning_wheel_3d\text.h(40,17): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+D:\Nikola_Ratkovac_RA_158_2021_3D_Projekat\spinning_wheel_3d\text.h(41,17): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+D:\Nikola_Ratkovac_RA_158_2021_3D_Projekat\spinning_wheel_3d\text.h(41,17): warning C4244:         with
+D:\Nikola_Ratkovac_RA_158_2021_3D_Projekat\spinning_wheel_3d\text.h(41,17): warning C4244:         [
+D:\Nikola_Ratkovac_RA_158_2021_3D_Projekat\spinning_wheel_3d\text.h(41,17): warning C4244:             T=glm::i32
+D:\Nikola_Ratkovac_RA_158_2021_3D_Projekat\spinning_wheel_3d\text.h(41,17): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+D:\Nikola_Ratkovac_RA_158_2021_3D_Projekat\spinning_wheel_3d\imgui.h(55,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Nikola_Ratkovac_RA_158_2021_3D_Projekat\spinning_wheel_3d\main.cpp(103,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Nikola_Ratkovac_RA_158_2021_3D_Projekat\spinning_wheel_3d\main.cpp(280,58): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\Nikola_Ratkovac_RA_158_2021_3D_Projekat\spinning_wheel_3d\main.cpp(344,58): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\Nikola_Ratkovac_RA_158_2021_3D_Projekat\spinning_wheel_3d\main.cpp(413,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Nikola_Ratkovac_RA_158_2021_3D_Projekat\spinning_wheel_3d\main.cpp(414,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Nikola_Ratkovac_RA_158_2021_3D_Projekat\spinning_wheel_3d\main.cpp(417,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Nikola_Ratkovac_RA_158_2021_3D_Projekat\spinning_wheel_3d\main.cpp(418,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+D:\Nikola_Ratkovac_RA_158_2021_3D_Projekat\spinning_wheel_3d\text.h(190,1): warning C4715: 'Freetype': not all control paths return a value
+freetype.lib(ftinit.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftinit.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftbase.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftbase.obj)' or at ''; linking object as if no debug info
+freetype.lib(autofit.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(autofit.obj)' or at ''; linking object as if no debug info
+freetype.lib(truetype.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(truetype.obj)' or at ''; linking object as if no debug info
+freetype.lib(type1.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(type1.obj)' or at ''; linking object as if no debug info
+freetype.lib(cff.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(cff.obj)' or at ''; linking object as if no debug info
+freetype.lib(type1cid.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(type1cid.obj)' or at ''; linking object as if no debug info
+freetype.lib(pfr.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(pfr.obj)' or at ''; linking object as if no debug info
+freetype.lib(type42.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(type42.obj)' or at ''; linking object as if no debug info
+freetype.lib(winfnt.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(winfnt.obj)' or at ''; linking object as if no debug info
+freetype.lib(pcf.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(pcf.obj)' or at ''; linking object as if no debug info
+freetype.lib(psaux.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(psaux.obj)' or at ''; linking object as if no debug info
+freetype.lib(psmodule.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(psmodule.obj)' or at ''; linking object as if no debug info
+freetype.lib(pshinter.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(pshinter.obj)' or at ''; linking object as if no debug info
+freetype.lib(raster.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(raster.obj)' or at ''; linking object as if no debug info
+freetype.lib(sfnt.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(sfnt.obj)' or at ''; linking object as if no debug info
+freetype.lib(smooth.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(smooth.obj)' or at ''; linking object as if no debug info
+freetype.lib(bdf.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(bdf.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftsystem.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftsystem.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftgzip.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftgzip.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftlzw.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftlzw.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftbitmap.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftbitmap.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftdebug.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftdebug.obj)' or at ''; linking object as if no debug info
+GLAD.lib(glad.obj) : warning LNK4099: PDB '' was not found with 'GLAD.lib(glad.obj)' or at ''; linking object as if no debug info
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: PDB '' was not found with 'soil2-debug.lib(SOIL2.obj)' or at ''; linking object as if no debug info
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: PDB '' was not found with 'soil2-debug.lib(image_DXT.obj)' or at ''; linking object as if no debug info
+soil2-debug.lib(wfETC.obj) : warning LNK4099: PDB '' was not found with 'soil2-debug.lib(wfETC.obj)' or at ''; linking object as if no debug info
+soil2-debug.lib(image_helper.obj) : warning LNK4099: PDB '' was not found with 'soil2-debug.lib(image_helper.obj)' or at ''; linking object as if no debug info
+     Creating library D:\Nikola_Ratkovac_RA_158_2021_3D_Projekat\x64\Debug\spinning_wheel_3d.lib and object D:\Nikola_Ratkovac_RA_158_2021_3D_Projekat\x64\Debug\spinning_wheel_3d.exp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  spinning_wheel_3d.vcxproj -> D:\Nikola_Ratkovac_RA_158_2021_3D_Projekat\x64\Debug\spinning_wheel_3d.exe
