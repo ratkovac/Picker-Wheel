@@ -34,7 +34,7 @@ C++ (core project language).
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/picker-wheel-3d.git
+    git clone https://github.com/your-username/picker-wheel-3d.git
 
 2. Open the project in your preferred C++ IDE or build environment.
 
